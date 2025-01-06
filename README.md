@@ -6,7 +6,7 @@ The codebases for these applications are in private repositories. If you'd like 
 ## Contact
 If you'd like to learn more about these projects or discuss potential collaboration opportunities, feel free to contact me.
 
-- **Email**: gustavo.peixoto.code@gmail.com
+- **Email**: gustavo.peixoto.jobs@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gustavo-p-b255488a
 
 Thank you for visiting my portfolio!
