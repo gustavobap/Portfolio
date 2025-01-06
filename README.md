@@ -1,7 +1,7 @@
 # Gustavo's Coding Portfolio
 
 ## Access to the Code
-The codebases for these applications are in private repositories. If you'd like to check out the code, please contact me with your GitHub email, and I'll add you as a collaborator.
+The codebases for these applications are in private repositories but are all open source. If you'd like to check out the code, please contact me with your GitHub email, and I'll add you as a collaborator.
 
 ## Contact
 If you'd like to learn more about these projects or discuss potential collaboration opportunities, feel free to contact me.
