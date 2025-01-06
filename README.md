@@ -27,5 +27,5 @@ Thank you for visiting my portfolio!
 
 ### DevicesAPI
 - **Description**: A RESTful API to manage a devices database, providing CRUD operations for efficient device management.
-- **Tech Stack**: Java, Spring Boot, Hibernate, PostgreSQL
+- **Tech Stack**: Java, Spring Boot, PostgreSQL
 - **Link**: [Devices API Repository](https://github.com/gustavobap/DevicesAPI)
